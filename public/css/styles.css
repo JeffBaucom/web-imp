@@ -2,10 +2,37 @@
 	background-color: whitesmoke;
 	padding: 1rem;
 }
+
+.header {
+	padding: .2rem;
+}
+
+#code {
+	margin: 0;
+    position: relative;
+    height: 300px;
+    width: 500px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
 #canvas {
 	padding: 2rem;
 }
 
 .slider {
 	display: inline-flex;
+	padding: 0.2rem;
+}
+
+.slider-panel {
+	display: flex;
+
+}
+
+.code-panel {
+	display: inline-flex;
+	padding: 1rem;
+
 }
