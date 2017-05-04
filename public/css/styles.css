@@ -1,0 +1,11 @@
+.toolbar {
+	background-color: whitesmoke;
+	padding: 1rem;
+}
+#canvas {
+	padding: 2rem;
+}
+
+.slider {
+	display: inline-flex;
+}
